@@ -1,6 +1,5 @@
 # These are supported funding model platforms
 
-Thank for the latest 10 sponsors:
 
 github: [kyleyuanmh ]# Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 patreon: kyleyuanmh # Replace with a single Patreon username
@@ -8,7 +7,7 @@ open_collective: # Replace with a single Open Collective username
 ko_fi: # Replace with a single Ko-fi username
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: ![support me](https://github.com/kyleyuanmh/BigYuan.github.io/blob/master/images/WechatIMG4.jpeg) # Replace with a single Liberapay username
+liberapay:  # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://github.com/kyleyuanmh',]# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://github.com/kyleyuanmh/BigYuan.github.io/blob/master/images/sponsor.png',]# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
