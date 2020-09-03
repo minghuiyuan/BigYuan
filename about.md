@@ -11,7 +11,7 @@ Some information about you!
 - Name: BigYuan
 - Sex: Male
 - Nationality: China
-- Sina: https://weibo.com/u/7488543336
+- Sina: [程序小袁](https://weibo.com/u/7488543336)
 - Email: yuanmh@alumni.sjtu.edu.cn
 
 ### Contact me
