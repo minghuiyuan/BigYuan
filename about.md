@@ -11,7 +11,7 @@ Some information about you!
 - Name: BigYuan
 - Sex: male
 - Nationality: China
-- QQ: 2013705552
+- Sina: https://weibo.com/u/7488543336
 - Email: yuanmh@alumni.sjtu.edu.cn
 
 ### Contact me
