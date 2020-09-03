@@ -8,8 +8,12 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- Name: BigYuan
+- Sex: male
+- Nationality: China
+- QQ: 2013705552
+- Email: yuanmh@alumni.sjtu.edu.cn
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:yuanmh@alumni.sjtu.edu.cn)
