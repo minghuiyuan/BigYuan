@@ -15,5 +15,6 @@ Some information about you!
 - Email: yuanmh@alumni.sjtu.edu.cn
 
 ### Contact me
+Having questions, never hesitate to contact me by [Sina](https://weibo.com/u/7488543336) or [twitter](https://www.twitter.com/milkdogie).
 
 [yuanmh@alumni.sjtu.edu.cn](mailto:yuanmh@alumni.sjtu.edu.cn)
