@@ -111,10 +111,6 @@ too many arguments in call to sum
 
 正确的做法也很简单，不要混合使用...运算符给可变参数传参即可。
 
- 
-
-
-
 
 
 > ref : https://www.cnblogs.com/apocelipes/p/9861315.html
